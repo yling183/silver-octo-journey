@@ -1,0 +1,2 @@
+D:\Me\VSProject\MyTestOfLearning\MyNewDelete.pdb
+D:\Me\VSProject\MyNewDelete\Debug\MyNewDelete.pdb

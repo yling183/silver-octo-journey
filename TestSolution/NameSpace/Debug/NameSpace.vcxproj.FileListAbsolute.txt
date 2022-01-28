@@ -1,0 +1,2 @@
+D:\Me\VSProject\TestSolution\TestSolution\NameSpace.pdb
+D:\Me\VSProject\TestSolution\NameSpace\Debug\NameSpace.pdb

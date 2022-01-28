@@ -1,0 +1,2 @@
+D:\Me\VSProject\WindowsProject1\Debug\WindowsProject1.exe
+D:\Me\VSProject\WindowsProject1\Debug\WindowsProject1.pdb

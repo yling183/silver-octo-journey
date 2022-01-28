@@ -1,0 +1,2 @@
+D:\Me\VSProject\TestSolution\TestSolution\Class.pdb
+D:\Me\VSProject\TestSolution\Class\Debug\Class.pdb

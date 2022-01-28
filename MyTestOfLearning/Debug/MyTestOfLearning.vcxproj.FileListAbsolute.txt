@@ -1,0 +1,2 @@
+D:\Me\VSProject\MyTestOfLearning\Debug\MyTestOfLearning.exe
+D:\Me\VSProject\MyTestOfLearning\Debug\MyTestOfLearning.pdb

@@ -1,0 +1,2 @@
+D:\Me\VSProject\TestSolution\TestSolution\DefineProcess.pdb
+D:\Me\VSProject\TestSolution\DefineProcess\Debug\DefineProcess.pdb

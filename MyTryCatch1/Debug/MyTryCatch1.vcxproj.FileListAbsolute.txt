@@ -1,0 +1,2 @@
+D:\Me\VSProject\MyTestOfLearning\MyTryCatch1.pdb
+D:\Me\VSProject\MyTryCatch1\Debug\MyTryCatch1.pdb

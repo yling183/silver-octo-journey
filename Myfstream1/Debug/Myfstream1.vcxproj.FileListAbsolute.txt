@@ -1,0 +1,2 @@
+D:\Me\VSProject\MyTestOfLearning\Myfstream1.pdb
+D:\Me\VSProject\Myfstream1\Debug\Myfstream1.pdb

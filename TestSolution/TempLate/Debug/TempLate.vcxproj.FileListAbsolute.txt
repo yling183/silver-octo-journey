@@ -1,0 +1,2 @@
+D:\Me\VSProject\TestSolution\TestSolution\TempLate.pdb
+D:\Me\VSProject\TestSolution\TempLate\Debug\TempLate.pdb
